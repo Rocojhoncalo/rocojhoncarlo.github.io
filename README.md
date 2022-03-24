@@ -22,7 +22,7 @@
     
           <h2> Career Objectives</h2>
           <p>Seeking a challenge career with a progressive organization 
-          that provides an opportunity to capitalize my technical skill and abilities in the position applying for 
+          that provides an opportunity to capitalize my technical skill and abilities in the position applying for. 
           
    <div id="skills">
        <h2> Technical Skills</h2>
