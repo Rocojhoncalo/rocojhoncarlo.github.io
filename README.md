@@ -22,13 +22,13 @@
     <div id ="Career Objectives
           <h2> Carrer Objectives</h2>
           <p>Seeking a challenge career with a progressive organization 
-          that provides an opportunity to capitalize my technical skill and abilities in the position applying for </h2>
+          that provides an opportunity to capitalize my technical skill and abilities in the position applying for </
           </div>
    <div id="skills">
        <h2> Technical Skills</h2>
        <p>Microsoft office(Ms word, PowerPoint internet etc. </p>
        <p></p>
-     </div>
+     
    
    <div id="education">
      <h2>Educational Background</h2>
