@@ -49,7 +49,7 @@
      <p>Ability to work independently or as a part of team</p>
      </div>
     
-   <div id= "Achievements/Responsibility 
+   
    <h2>Achievement/Responsibility</h2>
    <p>Top performing student(2018-2019)</p>
    <p>Top performing student (2019-2020</p>
