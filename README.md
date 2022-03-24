@@ -1,6 +1,6 @@
 # rocojhoncarlo.github.io
 <!DOCTYPE html>
-<h<!DOCTYPE html>
+
 <html>
 <head>
 <title>Jhoncarlo Roco</title>
@@ -18,7 +18,7 @@
        <p> 2nd year Collage Student in LSPU Siniloan campus</p>
        
        
-       </div>
+       
     <div id ="Career Objectives
           <h2> Carrer Objectives</h2>
           <p>Seeking a challenge career with a progressive organization 
@@ -35,7 +35,7 @@
      <p>Pakil senior high school (2018_2020)</p>
      <p>Cornelio celis dalena elementary school (2013-2014)</p>
      <p></p>
-     </di>
+     
    
    <div id="work">
      <h2>Work Experience</h2>
@@ -58,6 +58,6 @@
      <a href="mailto:jhoncarloroco3@gmail.com ">jhoncarloroco3@gmail.com </a>
      <a href="tel:+63912318910">+639123189102</a>
      </div>
-   </div> 
+   
 </body>
-</html>
+
