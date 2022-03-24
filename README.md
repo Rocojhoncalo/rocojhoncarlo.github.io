@@ -1,5 +1,5 @@
 # rocojhoncarlo.github.io
-<!DOCTYPE html>
+
 
 <html>
 <head>
@@ -59,5 +59,5 @@
      <a href="tel:+63912318910">+639123189102</a>
      </div>
    
-</body>
+
 
